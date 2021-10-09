@@ -1,0 +1,31 @@
+<?php
+
+return [
+    'submit-form' => '確認',
+    'after' => '配信日時が過去日です。',
+    'btn-back' => '戻る',
+    'btn-cancel' => 'キャンセル',
+    'btn-confirm' => '保存',
+    'no-data' => 'データがありません',
+    'create-answer-success' => '応答メッセージを登録しました。',
+    'create-answer-error' => '応答メッセージの登録に失敗しました。',
+    'edit-answer-success' => '応答メッセージを更新しました。',
+    'edit-answer-error' => '応答メッセージの更新に失敗しました。',
+    'delete-answer-success' => '削除されました。',
+    'delete-answer-error' => '削除されました。',
+    'id-invalid' => '配信着手しましたので編集できません。',
+    'create-delivery-success' => '配信メッセージを登録しました。',
+    'create-delivery-error' => '配信メッセージの登録に失敗しました。',
+    'edit-delivery-success' => '配信メッセージを更新しました。',
+    'edit-delivery-error' => '配信メッセージの更新に失敗しました。',
+    'delete-delivery-success' => '配信メッセージを削除しました。',
+    'delete-delivery-error' => '配信メッセージの削除に失敗しました。',
+    'create-notify-success' => 'お知らせを登録しました。',
+    'create-notify-error' => 'お知らせの登録に失敗しました。',
+    'edit-notify-success' => 'お知らせを更新しました。',
+    'edit-notify-error' => 'お知らせの更新に失敗しました。',
+    'delete-notify-success' => 'お知らせを削除しました。',
+    'delete-notify-error' => 'お知らせの削除に失敗しました。',
+    'error-min-data' => '応答メッセージは、1つ以上登録する必要があります。',
+
+];
